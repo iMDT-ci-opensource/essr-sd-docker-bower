@@ -23,4 +23,3 @@ WORKDIR /data
 # The real command is specified in docker-compose.yml
 CMD ["sleep", "10"]
 
-
